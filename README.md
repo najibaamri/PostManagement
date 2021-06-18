@@ -1,7 +1,10 @@
 # PostManagement
 This module is a part of a project: Professional Social Network 3aweni.
 It consists on offering users the opportunity to share posts, add comments, add reactions to posts, adding and consulting jobs and posting problems.
-This project is made with MERN STACK 
+This project is made with MERN STACK.
+
+Consult our social network 3aweni to discover more details: **[https://3aweni.netlify.app/](url)**
+
 
 ![post](https://user-images.githubusercontent.com/49040212/122620328-993e6700-d08a-11eb-9e66-e93f67aa08ab.PNG)
 ![jobs](https://user-images.githubusercontent.com/49040212/122620826-d9eab000-d08b-11eb-9027-61cfab1a7460.PNG)
