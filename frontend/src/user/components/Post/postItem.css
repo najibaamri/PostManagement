@@ -1,0 +1,41 @@
+.reactions {
+  background-color: #fff;
+  width: 400px;
+  height: 53px;
+  border-radius: 60px;
+  position: absolute;
+  left: 34%;
+
+  transform: translate(-50%, -50%);
+  box-shadow: 0 50px 40px -20px black;
+}
+.emoji img {
+  width: 60px;
+  height: 60px;
+  float: left;
+  border-radius: 50%;
+  padding-left: 0%;
+  transition: 0.5s ease;
+  transform-origin: 50% 100%;
+  outline: none;
+  margin-bottom: 500px;
+}
+.emoji img:hover {
+  transform: scale(1.7);
+  cursor: pointer;
+}
+.emoji p {
+  color: #fff;
+  float: left;
+  margin-top: -70px;
+  margin-left: -60px;
+  background: rgba(0, 0, 0, 0.5);
+  padding: 4px 16px;
+  border-radius: 30px;
+  transition: 0.8s;
+  opacity: 0;
+}
+.reactions .emoji:hover p {
+  opacity: 1;
+  font-size: 16px;
+}
